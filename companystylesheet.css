@@ -1,0 +1,75 @@
+.row
+{
+    height: 100px;
+    background-color:rgb(252, 0, 168);
+}
+.item {
+    margin: 20px 0;
+    text-align: center;
+    float:left;
+    width:25%;
+    
+}
+.title {
+    font-size: 50px;
+    text-align: center;
+    }
+.images{
+    margin-left: 40px;
+}
+.images1{
+    margin-left: 300px;
+    margin-bottom: 900px;
+}
+.images2{
+    margin-left: 300px;
+    margin-bottom: 800px;
+}
+ 
+
+.icecream{
+    list-style-type:none;
+    text-align:center;
+}
+.icecream li{
+    display:inline-block;
+    margin:0 20px;
+    height: 300px;
+}
+.icecream li img
+{
+    
+    height: 100%;
+}
+.itemleft{
+    color:rgb(0, 0, 0)
+}
+.row h2 a{
+    text-decoration: none;
+}
+.icecream{
+    list-style-type: none;
+    text-align: center ;
+    height:300px;
+    
+    
+    
+}
+
+.icecream li{
+    display:inline-block;
+    margin:0 20px;
+    height:100%;
+    width: 300px;
+    
+    
+}
+.icecream li img{
+height: 100%;
+width: 100%;
+
+
+}
+
+
+
